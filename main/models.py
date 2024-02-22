@@ -19,8 +19,7 @@ class Davomat(models.Model):
     data=models.DateField()
 
     
-    @property
-    def day(request):
+
         
     
 
